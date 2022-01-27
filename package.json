@@ -57,7 +57,7 @@
     "line-height": "*",
     "link-check": "*",
     "mammoth": "^1.4.19",
-    "markdown-it": "^12.2.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.4.1",
     "markdown-it-attrs": "^4.1.3",
